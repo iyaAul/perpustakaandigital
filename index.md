@@ -11,7 +11,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Modul Ajar Literasi Digital Fase E : Benarkah Itu? Moda Plugged dan Unplugged](ebook/BenarkahItu_copy.pdf) - Septiaji Eko Nugroho (2024)
 8. [The Art Of War](ebook/the-art-of-war-sun-tzu.pdf) - Sun Tzu (1800)
 9. [The Little Prince](ebook/the-little-prince-antoine-de-saint-exupery-1135.pdf) - Antoine de Saint Exupéry(1943)
-10. [The Prophet](the-prophet-kahlil-gibran.pdf) - Kahlil Gibran (1943)
+10. [The Prophet](ebook/the-prophet-kahlil-gibran.pdf) - Kahlil Gibran (1943)
 11. [Alice’s Adventures in Wonderland](ebook/alice-s-adventures-in-wonderland-lewis-carroll.pdf) - Lewis Carrol (1865)
 12. [Ringkasan Pemaparan UGC 3 November 2026](ebook/RingkasanpemaparanUGC_Auliya_155.pdf) - Auliya Fadila Putri (2026)
 
