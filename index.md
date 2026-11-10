@@ -13,6 +13,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [EXPLORING INTERNAL STICKINESS: IMPEDIMENTS TO THE TRANSFER OF BEST PRACTICE WITHIN THE FIRM](ebook/StrategicManagementJournal.pdf) - Gabriel Szulanski (1996)
 10. [PERSEPSI PUSTAKAWAN PADA FUNGSI HUMAS DI PERPUSTAKAAN PERGURUAN TINGGI (Studi Kasus UPT Perpustakaan Universitas Diponegoro)](ebook/PERSEPSIPUSTAKAWANPADAFUNGSIHUMAS.pdf) - Hanung Hanindita (2023)
 11. [The Process of Knowledge Transfer : A Diachronic Analysis of Stickiness](ebook/TheProcessofKnowledgeTransfer.pdf) - Gabriel Szulanski (2000)
+12. [Ringkasan Pemaparan UGC 3 November 2026](RingkasanpemaparanUGC_Auliya(155).pdf) - Auliya Fadila Putri (2026)
 
 ---
 *Powered by GitHub Pages*
